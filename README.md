@@ -41,3 +41,4 @@ Workflow:
 - Main_Code.py        # main code
 - Project_1.pdf       # project report
 - data                # dataset
+- Plots               # output of the code
